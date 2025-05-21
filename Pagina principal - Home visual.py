@@ -129,8 +129,7 @@ html_admin = """
         </div>
         <div class="columna">
             <button type="submit" name="opcion" value="registrar">Registrar cliente</button>
-            <button type="submit" name="opcion" value="solicitar">Solicitar trabajo</button>
-            <button type="submit" name="opcion" value="cerrar_interno">Cerrar sesión</button>
+            <button type="submit" name="opcion" value="solicitar">Historial de pagos</button>
         </div>
     </form>
 </section>
